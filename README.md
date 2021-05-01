@@ -1,3 +1,4 @@
+# Completed on 4/20/2021 at 4:20PM for CWEB1130-01
 #  Nodejs Express(Backend) and React(Frontend) App - Create and Retrieve Users (Lab 3)
 You are going to build a simple web application that allows end-users to create user profiles and view all profiles created.  This lab focuses on using Nodejs as the back-end server language and implementing core modules (File System core module), third-party modules (Express Framework), user-defined modules (User Object).  
 
